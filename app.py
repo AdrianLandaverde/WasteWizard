@@ -1,8 +1,6 @@
 import streamlit as st
-import pandas as pd
 import numpy as np
 from PIL import Image
-from transformers import AutoFeatureExtractor, AutoModelForImageClassification
 from huggingface_hub import from_pretrained_fastai
 import pathlib
 

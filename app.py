@@ -9,9 +9,9 @@ page_bg_img = f"""
 <style>
 [data-testid="stAppViewContainer"] > .main {{
 background-image: url("https://free4kwallpapers.com/uploads/originals/2018/07/19/forest-at-dusk-mikael-gustafsson--download-link-in-comments-wallpaper.jpg");
-background-size: 100%;
-background-position: top left;
-background-repeat: repeat;
+background-size: cover;
+background-position: center center;
+background-repeat: no-repeat;
 background-attachment: local;
 }}
 

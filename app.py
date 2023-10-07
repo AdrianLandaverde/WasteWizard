@@ -50,8 +50,6 @@ def glass(inp):
 
 
 def model(image):
-    temp = pathlib.PosixPath
-    pathlib.PosixPath = pathlib.WindowsPath
     import os
 
     os.environ["HF_ENDPOINT"] = "https://huggingface.co"

@@ -1,0 +1,4 @@
+PIL
+streamlit
+pathlib
+huggingface-hub
